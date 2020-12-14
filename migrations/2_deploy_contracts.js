@@ -1,5 +1,5 @@
-const DTube = artifacts.require("DTube");
+const DVideo = artifacts.require("DVideo");
 
 module.exports = function (deployer) {
-  deployer.deploy(DTube);
+  deployer.deploy(DVideo);
 };

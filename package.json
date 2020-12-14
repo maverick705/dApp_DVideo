@@ -1,7 +1,7 @@
 {
-  "name": "DTube",
+  "name": "DVideo",
   "version": "0.1.0",
-  "description": "Decentralized Youtube Clone",
+  "description": "Decentralized Social Media",
   "author": "Kenneth Reiners",
   "homepage": ".",
   "dependencies": {
