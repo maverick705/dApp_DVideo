@@ -1,3 +1,6 @@
+# Credits
+This project was created thanks to DappUniversity.  Highly recommend his channel and tutorials!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
