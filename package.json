@@ -1,7 +1,7 @@
 {
-  "name": "name",
+  "name": "DTube",
   "version": "0.1.0",
-  "description": "description",
+  "description": "Decentralized Youtube Clone",
   "author": "Kenneth Reiners",
   "homepage": ".",
   "dependencies": {
@@ -23,6 +23,7 @@
     "react-bootstrap": "^1.3.0",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.3",
+    "solc": "^0.6.0",
     "truffle": "^5.1.45",
     "truffle-hdwallet-provider-privkey": "^0.3.0",
     "web3": "^1.3.0"
